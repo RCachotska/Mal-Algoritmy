@@ -1,0 +1,2 @@
+# Mal-Algoritmy
+Domácí úkol
